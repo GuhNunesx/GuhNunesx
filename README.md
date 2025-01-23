@@ -1,16 +1,20 @@
-## Hi there 👋
+# Gustavo
 
-<!--
-**GuhNunesx/GuhNunesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é **Gustavo** e atualmente estou estudando no **SENAI**, cursando **Técnico em Desenvolvimento de Sistemas** e também estou na faculdade de **Análise e Desenvolvimento de Sistemas**.
 
-Here are some ideas to get you started:
+## O que faço
+Estou me dedicando aos estudos nas áreas de tecnologia e programação, com o objetivo de me especializar em desenvolvimento de sistemas e infraestrutura de TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interesses e Hobbies
+Nos meus momentos livres, gosto de me manter ativo praticando **corrida** e **jogando futebol**. Também sou apaixonado por música e adoro **tocar músicas** em diferentes instrumentos.
+
+## Personalidade
+Sou uma pessoa **sociável**, **alegre** e **comunicativa**. Gosto de interagir com pessoas e acredito que a comunicação é uma das chaves para o sucesso em qualquer área.
+
+## Contatos
+Você pode me encontrar em:
+- **LinkedIn**: [seu-linkedin](#)
+- **GitHub**: [seu-github](#)
+
+Fique à vontade para entrar em contato!
+
