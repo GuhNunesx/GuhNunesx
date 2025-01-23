@@ -13,8 +13,8 @@ Sou uma pessoa **sociável**, **alegre** e **comunicativa**. Gosto de interagir 
 
 ## Contatos
 Você pode me encontrar em:
-- **LinkedIn**: [](https://github.com/GuhNunesx)](#)
-- **GitHub**: [[meu-github](https://github.com/GuhNunesx)](#)
+- **LinkedIn**: [](https://github.com/GuhNunesx)]
+- **GitHub**: [[meu-github](https://github.com/GuhNunesx)]
 
 Fique à vontade para entrar em contato!
 
